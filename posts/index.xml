@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retro Games &amp; Linux on NiceTux by Matthew Hungerford</title>
-    <link>http://mhungerford.github.io/posts/</link>
+    <link>https://mhungerford.github.io/posts/</link>
     <description>Recent content in Retro Games &amp; Linux on NiceTux by Matthew Hungerford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jul 2019 17:35:04 -0700</lastBuildDate>
     
-	<atom:link href="http://mhungerford.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mhungerford.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
