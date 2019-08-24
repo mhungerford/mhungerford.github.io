@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NiceTux by Matthew Hungerford</title>
+    <title>Retro Games &amp; Linux on NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/</link>
-    <description>Recent content on NiceTux by Matthew Hungerford</description>
+    <description>Recent content in Retro Games &amp; Linux on NiceTux by Matthew Hungerford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2019 22:27:49 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 17:35:04 -0700</lastBuildDate>
     
 	<atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,15 @@
       
       <guid>https://mhungerford.github.io/gamepark/oppositelock/</guid>
       <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.org download</description>
+    </item>
+    
+    <item>
+      <title>Unicornpaint</title>
+      <link>https://mhungerford.github.io/android/unicornpaint/</link>
+      <pubDate>Mon, 22 Jul 2019 17:34:04 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/android/unicornpaint/</guid>
+      <description>Unicorn paint game </description>
     </item>
     
     <item>
