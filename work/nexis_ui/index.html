@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-	<meta name="generator" content="Hugo 0.40.1" />
 	<meta charset="utf-8">
 	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 
-	<title>Retro Games &amp; Linux</title>
+	<title>Nexis/787 UI</title>
 
 	<link rel="shortcut icon" href="https://mhungerford.github.io/images/favicon.png">
 
@@ -94,45 +93,59 @@
 
 </header>
 
+
 <main id="main">
 
 	<div class="container">
 
-        
-            <div class="row section topspace">
-    <div class="col-md-12">
-       <p class="lead text-center text-muted">A fun collection of current and past projects, both on the job and in my freetime</p>
-    </div>
-</div> 
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
 
-        
+ 				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta">
+                                                   <span class="posted-on">
+                                                      <time class="entry-date published" datetime="July 288, 28089">August 28, 2019</time>
+                                                   </span>
+ 						</div>
+ 						<h1 class="entry-title"><a href="https://mhungerford.github.io/work/nexis_ui/" rel="bookmark">Nexis/787 UI</a></h1>
+					</header>
+					<div class="entry-content">
+						<p>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.
+<img src="/images/NEXIS_MENU.jpg#center" alt="NEXIS MENU" /></p>
 
-        
-            <div class="row section topspace">
-        <h2 class="lead text-center">Recent Posts</h2>
+<p>For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.  This allowed for better image quality, as the antialiasing of the Intel Graphics was poor, and since the rendering was cached, it boosted the FPS from ~3FPS (rendering all the polygons every frame) to the 30FPS cap (software pre-rendered tiles).</p>
 
-	<div class="row">
-        
-            <li><a href="https://mhungerford.github.io/posts/updating_projects/">Updating Projects</a></li>
-            <p>Many of the sections in the section header are incomplete, I am still catching up on finding pictures and links to old games and projects.</p>
+<p>I also created a collision and bounding framework that kept relevant or important information on-screen even if it was located off-screen or beneath a UI element.  This covered both cases such as other airplanes that would be off-screen with the current view but required the pilot to be aware of them, as well as other elements such as the runway identifiers such as &ldquo;25R&rdquo; in the picture below sliding with the runway edge to stay on-screen.</p>
 
-        
-            <li><a href="https://mhungerford.github.io/posts/firstpost/">First Post</a></li>
-            <p>Created this site to archive past games I have written or ported, as well as interesting applications or projects I have worked on.</p>
+<p><img src="/images/NEXIS_UI.png#center" alt="NEXIS UI" />
+<a href="https://www.youtube.com/watch?v=X2ti9P5BFlI">Youtube Video</a></p>
 
-        
-	</div>
-</div> 
+					</div>
+				</article>
 
-        
+			</div>
+		</div> 
 
-        
+        <div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
 
-        
+				<div id="share">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
 
-        
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
 
-        
+				<div id="comments">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
 
 	</div>	
 

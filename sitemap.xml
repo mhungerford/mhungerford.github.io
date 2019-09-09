@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mhungerford.github.io/work/nexis_ui/</loc>
+    <lastmod>2019-08-28T11:39:44-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mhungerford.github.io/posts/updating_projects/</loc>
     <lastmod>2019-08-22T22:27:49-07:00</lastmod>
   </url>
@@ -43,6 +48,16 @@
   </url>
   
   <url>
+    <loc>https://mhungerford.github.io/pebble/pandas_and_bananas/</loc>
+    <lastmod>2015-04-17T09:50:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mhungerford.github.io/work/skype_psvita/</loc>
+    <lastmod>2012-04-24T13:44:35-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mhungerford.github.io/android/</loc>
     <lastmod>2019-07-22T17:34:04-07:00</lastmod>
     <priority>0</priority>
@@ -60,7 +75,19 @@
   </url>
   
   <url>
+    <loc>https://mhungerford.github.io/pebble/</loc>
+    <lastmod>2015-04-17T09:50:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mhungerford.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mhungerford.github.io/work/</loc>
+    <lastmod>2019-08-28T11:39:44-07:00</lastmod>
     <priority>0</priority>
   </url>
   

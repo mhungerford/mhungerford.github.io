@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
-	<meta name="generator" content="Hugo 0.40.1" />
 	<meta charset="utf-8">
 	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 
-	<title>Retro Games &amp; Linux</title>
+	<title>Works</title>
 
 	<link rel="shortcut icon" href="https://mhungerford.github.io/images/favicon.png">
 
@@ -94,45 +93,67 @@
 
 </header>
 
+
 <main id="main">
 
 	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
 
-        
-            <div class="row section topspace">
-    <div class="col-md-12">
-       <p class="lead text-center text-muted">A fun collection of current and past projects, both on the job and in my freetime</p>
-    </div>
-</div> 
+                
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+                                                   <span class="posted-on">
+                                                      <time class="entry-date published" datetime="July 288, 28089">August 28, 2019</time>
+                                                   </span>
+						</div>
+						<h1 class="entry-title"><a href="https://mhungerford.github.io/work/nexis_ui/" rel="bookmark">Nexis/787 UI</a></h1>
+					</header>
+					<div class="entry-content">
+						<p>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.
+<img src="/images/NEXIS_MENU.jpg#center" alt="NEXIS MENU" /></p>
 
-        
+<p>For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.  This allowed for better image quality, as the antialiasing of the Intel Graphics was poor, and since the rendering was cached, it boosted the FPS from ~3FPS (rendering all the polygons every frame) to the 30FPS cap (software pre-rendered tiles).</p>
 
-        
-            <div class="row section topspace">
-        <h2 class="lead text-center">Recent Posts</h2>
+<p>I also created a collision and bounding framework that kept relevant or important information on-screen even if it was located off-screen or beneath a UI element.  This covered both cases such as other airplanes that would be off-screen with the current view but required the pilot to be aware of them, as well as other elements such as the runway identifiers such as &ldquo;25R&rdquo; in the picture below sliding with the runway edge to stay on-screen.</p>
 
-	<div class="row">
-        
-            <li><a href="https://mhungerford.github.io/posts/updating_projects/">Updating Projects</a></li>
-            <p>Many of the sections in the section header are incomplete, I am still catching up on finding pictures and links to old games and projects.</p>
+<p><img src="/images/NEXIS_UI.png#center" alt="NEXIS UI" />
+<a href="https://www.youtube.com/watch?v=X2ti9P5BFlI">Youtube Video</a></p>
 
-        
-            <li><a href="https://mhungerford.github.io/posts/firstpost/">First Post</a></li>
-            <p>Created this site to archive past games I have written or ported, as well as interesting applications or projects I have worked on.</p>
+					</div>
+				</article>
+                
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+                                                   <span class="posted-on">
+                                                      <time class="entry-date published" datetime="July 244, 24049">April 24, 2012</time>
+                                                   </span>
+						</div>
+						<h1 class="entry-title"><a href="https://mhungerford.github.io/work/skype_psvita/" rel="bookmark">Skype for PS Vita</a></h1>
+					</header>
+					<div class="entry-content">
+						<p>Had a blast while working at Skype.  I had the fortune to work with Sony on porting Skype to the PS Vita.  Being a fan of games and handhelds, it was exciting having my professional life cross over to gaming for a short while.</p>
 
-        
-	</div>
-</div> 
+<p>One of the more interesting things involved in the PS Vita port of Skype was that I had to modify the Skype audio encoding to enable it to use a PS Vita hardware-accelerated audio codec for SILK, the first time that SILK had not been a software encoder for Skype.  Luckily for me the Skype audio codec engineers are a fun, smart, flexible bunch.  They took the time to explain the intricacies of the encoding path, and helped me find workarounds so that we could plumb it to a hardware version of the codec.</p>
 
-        
+<p><img src="/images/skype_psvita.jpg#center" alt="Skype for PSVita" /></p>
 
-        
+					</div>
+				</article>
+                
 
-        
+			</div>
+		</div>
 
-        
+		<center class="">
+			<ul class="pagination">
+                
 
-        
+			</ul>
+		</center>
+
 
 	</div>	
 
