@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gameparks on NiceTux by Matthew Hungerford</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 22 Aug 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/oppositelock/</guid>
-      <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.org download</description>
+      <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.</description>
     </item>
     
     <item>
@@ -26,8 +26,7 @@
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/kingoffighters/</guid>
-      <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)
-OpenHandhelds.org download</description>
+      <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
     
     <item>
@@ -36,8 +35,7 @@ OpenHandhelds.org download</description>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/mrhachi/</guid>
-      <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; OpenHandhelds.org download</description>
+      <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
     
   </channel>

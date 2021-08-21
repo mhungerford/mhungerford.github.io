@@ -55,31 +55,23 @@
             <ul class="nav navbar-nav">
                 
                 <li>
-                    <a href="/">home</a>
+                  <a href="/">home</a>
                 </li>
                 
                 <li>
-                    <a href="/posts/">blog</a>
+                  <a href="/android/">Android</a>
                 </li>
                 
                 <li>
-                    <a href="/android/">Android</a>
+                  <a href="/gamepark/">GP2X&#43;WIZ</a>
                 </li>
                 
                 <li>
-                    <a href="/gamepark/">GP2x/Wiz/Pandora</a>
+                  <a href="/pebble/">Pebble</a>
                 </li>
                 
                 <li>
-                    <a href="/pebble/">Pebble</a>
-                </li>
-                
-                <li>
-                    <a href="/arduboy/">Arduboy</a>
-                </li>
-                
-                <li>
-                    <a href="/work/">Work</a>
+                  <a href="/work/">Work</a>
                 </li>
                 
                 
@@ -105,20 +97,17 @@
 					<header class="entry-header">
  						<div class="entry-meta">
                                                    <span class="posted-on">
-                                                      <time class="entry-date published" datetime="July 288, 28089">August 28, 2019</time>
+                                                      <time class="entry-date published" datetime="Aug 28, 2019">August 28, 2019</time>
                                                    </span>
  						</div>
  						<h1 class="entry-title"><a href="https://mhungerford.github.io/work/nexis_ui/" rel="bookmark">Nexis/787 UI</a></h1>
 					</header>
 					<div class="entry-content">
 						<p>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.
-<img src="/images/NEXIS_MENU.jpg#center" alt="NEXIS MENU" /></p>
-
+<img src="/images/NEXIS_MENU.jpg#center" alt="NEXIS MENU"></p>
 <p>For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.  This allowed for better image quality, as the antialiasing of the Intel Graphics was poor, and since the rendering was cached, it boosted the FPS from ~3FPS (rendering all the polygons every frame) to the 30FPS cap (software pre-rendered tiles).</p>
-
 <p>I also created a collision and bounding framework that kept relevant or important information on-screen even if it was located off-screen or beneath a UI element.  This covered both cases such as other airplanes that would be off-screen with the current view but required the pilot to be aware of them, as well as other elements such as the runway identifiers such as &ldquo;25R&rdquo; in the picture below sliding with the runway edge to stay on-screen.</p>
-
-<p><img src="/images/NEXIS_UI.png#center" alt="NEXIS UI" />
+<p><img src="/images/NEXIS_UI.png#center" alt="NEXIS UI">
 <a href="https://www.youtube.com/watch?v=X2ti9P5BFlI">Youtube Video</a></p>
 
 					</div>

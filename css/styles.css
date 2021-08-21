@@ -68,6 +68,9 @@ body {
   background-color: black;
   border-color: #cccccc;
 }
+.navbar-nav {
+   width: 80%;
+}
 .navbar-default .navbar-nav > li > a {
   color: yellow;
   font-weight: normal;
@@ -82,6 +85,11 @@ body {
    }
    .navbar-header .collapse, .navbar-toggle {
       display: none !important;
+   }
+}
+@media (max-width: 1024px) {
+   .navbar-default .navbar-nav > li > a {
+      padding: 10px;
    }
 }
 .navbar-default .navbar-nav > li > a:hover,

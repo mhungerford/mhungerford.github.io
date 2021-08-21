@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pebbles on NiceTux by Matthew Hungerford</title>
@@ -17,9 +17,7 @@
       <pubDate>Fri, 17 Apr 2015 09:50:16 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/pebble/pandas_and_bananas/</guid>
-      <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch. I later worked with Chris Lewis to incorporate the collision code from this game into the PGE (Pebble Game Engine) framework for use by other games.
-This game includes assets from https://opengameart.org
-Youtube Gameplay Video</description>
+      <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch.</description>
     </item>
     
   </channel>

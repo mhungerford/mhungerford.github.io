@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on NiceTux by Matthew Hungerford</title>
@@ -17,7 +17,7 @@
       <pubDate>Wed, 28 Aug 2019 11:39:44 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/work/nexis_ui/</guid>
-      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system. For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.</description>
+      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
     </item>
     
     <item>
@@ -26,8 +26,7 @@
       <pubDate>Tue, 24 Apr 2012 13:44:35 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/work/skype_psvita/</guid>
-      <description>Had a blast while working at Skype. I had the fortune to work with Sony on porting Skype to the PS Vita. Being a fan of games and handhelds, it was exciting having my professional life cross over to gaming for a short while.
-One of the more interesting things involved in the PS Vita port of Skype was that I had to modify the Skype audio encoding to enable it to use a PS Vita hardware-accelerated audio codec for SILK, the first time that SILK had not been a software encoder for Skype.</description>
+      <description>Had a blast while working at Skype.</description>
     </item>
     
   </channel>

@@ -1,15 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Retro Games &amp; Linux on NiceTux by Matthew Hungerford</title>
+    <title>NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/</link>
-    <description>Recent content in Retro Games &amp; Linux on NiceTux by Matthew Hungerford</description>
+    <description>Recent content on NiceTux by Matthew Hungerford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2019 17:35:04 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 10:09:14 -0700</lastBuildDate>
     
 	<atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Qtstickercam</title>
+      <link>https://mhungerford.github.io/android/qtstickercam/</link>
+      <pubDate>Tue, 24 Mar 2020 10:09:14 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/android/qtstickercam/</guid>
+      <description>My son got a webcam for his PC, and wanted to do stickers on pictures, similar to those on Android and IPhone mobile apps.</description>
+    </item>
+    
+    <item>
+      <title>Cosmo&#39;s Star</title>
+      <link>https://mhungerford.github.io/android/cosmos_star/</link>
+      <pubDate>Fri, 27 Sep 2019 11:04:01 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/android/cosmos_star/</guid>
+      <description>Qt-based game for Android/Web/Linux written as part of the itch.</description>
+    </item>
     
     <item>
       <title>Nexis/787 UI</title>
@@ -17,7 +35,7 @@
       <pubDate>Wed, 28 Aug 2019 11:39:44 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/work/nexis_ui/</guid>
-      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system. For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.</description>
+      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
     </item>
     
     <item>
@@ -44,16 +62,7 @@
       <pubDate>Thu, 22 Aug 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/oppositelock/</guid>
-      <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.org download</description>
-    </item>
-    
-    <item>
-      <title>Unicornpaint</title>
-      <link>https://mhungerford.github.io/android/unicornpaint/</link>
-      <pubDate>Mon, 22 Jul 2019 17:34:04 -0700</pubDate>
-      
-      <guid>https://mhungerford.github.io/android/unicornpaint/</guid>
-      <description>Unicorn paint game </description>
+      <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.</description>
     </item>
     
     <item>
@@ -62,8 +71,7 @@
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/kingoffighters/</guid>
-      <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)
-OpenHandhelds.org download</description>
+      <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
     
     <item>
@@ -72,8 +80,16 @@ OpenHandhelds.org download</description>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/gamepark/mrhachi/</guid>
-      <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; OpenHandhelds.org download</description>
+      <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)</description>
+    </item>
+    
+    <item>
+      <title>Unicorn Paint</title>
+      <link>https://mhungerford.github.io/android/unicorn_paint/</link>
+      <pubDate>Sat, 16 Mar 2019 17:34:04 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/android/unicorn_paint/</guid>
+      <description>For my daughters upcoming birthday I wrote a fun little finger-painting game.</description>
     </item>
     
     <item>
@@ -82,9 +98,7 @@ OpenHandhelds.org download</description>
       <pubDate>Fri, 17 Apr 2015 09:50:16 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/pebble/pandas_and_bananas/</guid>
-      <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch. I later worked with Chris Lewis to incorporate the collision code from this game into the PGE (Pebble Game Engine) framework for use by other games.
-This game includes assets from https://opengameart.org
-Youtube Gameplay Video</description>
+      <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch.</description>
     </item>
     
     <item>
@@ -93,8 +107,7 @@ Youtube Gameplay Video</description>
       <pubDate>Tue, 24 Apr 2012 13:44:35 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/work/skype_psvita/</guid>
-      <description>Had a blast while working at Skype. I had the fortune to work with Sony on porting Skype to the PS Vita. Being a fan of games and handhelds, it was exciting having my professional life cross over to gaming for a short while.
-One of the more interesting things involved in the PS Vita port of Skype was that I had to modify the Skype audio encoding to enable it to use a PS Vita hardware-accelerated audio codec for SILK, the first time that SILK had not been a software encoder for Skype.</description>
+      <description>Had a blast while working at Skype.</description>
     </item>
     
   </channel>
