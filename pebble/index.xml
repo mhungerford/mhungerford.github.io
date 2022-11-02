@@ -6,11 +6,7 @@
     <description>Recent content in Pebbles on NiceTux by Matthew Hungerford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2015 09:50:16 -0700</lastBuildDate>
-    
-	<atom:link href="https://mhungerford.github.io/pebble/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 17 Apr 2015 09:50:16 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/pebble/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pandas and bananas</title>
       <link>https://mhungerford.github.io/pebble/pandas_and_bananas/</link>
@@ -18,6 +14,24 @@
       
       <guid>https://mhungerford.github.io/pebble/pandas_and_bananas/</guid>
       <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch.</description>
+    </item>
+    
+    <item>
+      <title>XKCD Comics Viewer</title>
+      <link>https://mhungerford.github.io/pebble/xkcd_comics/</link>
+      <pubDate>Fri, 07 Feb 2014 00:00:00 -0800</pubDate>
+      
+      <guid>https://mhungerford.github.io/pebble/xkcd_comics/</guid>
+      <description>After porting PNG support to Pebble, found a use for the 10x increase in image storage in the creation of a XKCD Comic viewer.</description>
+    </item>
+    
+    <item>
+      <title>PebbleGL OpenGL Implementation</title>
+      <link>https://mhungerford.github.io/pebble/pebblegl/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://mhungerford.github.io/pebble/pebblegl/</guid>
+      <description>During a Pebble Hackathon at the office, myself and Justin McGirr endeavored to create an OpenGL implementation for the Pebble Smartwatch.</description>
     </item>
     
   </channel>

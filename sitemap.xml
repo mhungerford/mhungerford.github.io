@@ -1,98 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://mhungerford.github.io/home/recentworks/</loc>
+  </url><url>
     <loc>https://mhungerford.github.io/android/</loc>
     <lastmod>2020-03-24T10:09:14-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/</loc>
     <lastmod>2020-03-24T10:09:14-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/android/qtstickercam/</loc>
     <lastmod>2020-03-24T10:09:14-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/android/cosmos_star/</loc>
     <lastmod>2019-09-27T11:04:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhungerford.github.io/work/nexis_ui/</loc>
-    <lastmod>2019-08-28T11:39:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mhungerford.github.io/work/</loc>
-    <lastmod>2019-08-28T11:39:44-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/posts/</loc>
     <lastmod>2019-08-22T22:27:49-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/posts/updating_projects/</loc>
     <lastmod>2019-08-22T22:27:49-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/posts/firstpost/</loc>
     <lastmod>2019-08-22T16:48:53-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/gamepark/</loc>
     <lastmod>2019-08-22T10:48:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/gamepark/oppositelock/</loc>
     <lastmod>2019-08-22T10:48:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/gamepark/kingoffighters/</loc>
     <lastmod>2019-06-22T10:48:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/gamepark/mrhachi/</loc>
     <lastmod>2019-06-22T10:48:59-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/chargepoint_rftouch/</loc>
+    <lastmod>2019-06-10T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/</loc>
+    <lastmod>2019-06-10T12:00:00-08:00</lastmod>
+  </url><url>
     <loc>https://mhungerford.github.io/android/unicorn_paint/</loc>
     <lastmod>2019-03-16T17:34:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</loc>
+    <lastmod>2018-09-18T13:44:35-07:00</lastmod>
+  </url><url>
     <loc>https://mhungerford.github.io/pebble/pandas_and_bananas/</loc>
     <lastmod>2015-04-17T09:50:16-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mhungerford.github.io/pebble/</loc>
     <lastmod>2015-04-17T09:50:16-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</loc>
+    <lastmod>2014-12-24T13:44:35-07:00</lastmod>
+  </url><url>
+    <loc>https://mhungerford.github.io/pebble/xkcd_comics/</loc>
+    <lastmod>2014-02-07T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://mhungerford.github.io/pebble/pebblegl/</loc>
+    <lastmod>2013-11-01T00:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/pebble_sketchup/</loc>
+    <lastmod>2013-02-22T13:44:35-07:00</lastmod>
+  </url><url>
     <loc>https://mhungerford.github.io/work/skype_psvita/</loc>
     <lastmod>2012-04-24T13:44:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mhungerford.github.io/work/astronautics_nexis_us/</loc>
+    <lastmod>2011-03-01T11:39:44-07:00</lastmod>
+  </url><url>
+    <loc>https://mhungerford.github.io/home/subheader/</loc>
+  </url><url>
     <loc>https://mhungerford.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mhungerford.github.io/home/</loc>
+  </url><url>
     <loc>https://mhungerford.github.io/tags/</loc>
   </url>
-  
 </urlset>
