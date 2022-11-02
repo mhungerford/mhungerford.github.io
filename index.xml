@@ -6,11 +6,7 @@
     <description>Recent content on NiceTux by Matthew Hungerford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 10:09:14 -0700</lastBuildDate>
-    
-	<atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 24 Mar 2020 10:09:14 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qtstickercam</title>
       <link>https://mhungerford.github.io/android/qtstickercam/</link>
@@ -27,15 +23,6 @@
       
       <guid>https://mhungerford.github.io/android/cosmos_star/</guid>
       <description>Qt-based game for Android/Web/Linux written as part of the itch.</description>
-    </item>
-    
-    <item>
-      <title>Nexis/787 UI</title>
-      <link>https://mhungerford.github.io/work/nexis_ui/</link>
-      <pubDate>Wed, 28 Aug 2019 11:39:44 -0700</pubDate>
-      
-      <guid>https://mhungerford.github.io/work/nexis_ui/</guid>
-      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
     </item>
     
     <item>
@@ -84,12 +71,30 @@
     </item>
     
     <item>
+      <title>ChargePoint Tensorflow-Powered TouchScreens</title>
+      <link>https://mhungerford.github.io/work/chargepoint_rftouch/</link>
+      <pubDate>Mon, 10 Jun 2019 12:00:00 -0800</pubDate>
+      
+      <guid>https://mhungerford.github.io/work/chargepoint_rftouch/</guid>
+      <description>ChargePoint EV Chargers have to support extreme conditions, from being covered in ice after a winter storm in Finland, to extreme heat and sun in desert like environments like LA.</description>
+    </item>
+    
+    <item>
       <title>Unicorn Paint</title>
       <link>https://mhungerford.github.io/android/unicorn_paint/</link>
       <pubDate>Sat, 16 Mar 2019 17:34:04 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/android/unicorn_paint/</guid>
       <description>For my daughters upcoming birthday I wrote a fun little finger-painting game.</description>
+    </item>
+    
+    <item>
+      <title>Qt-WebAssembly ChargePoint EV Charger Simulator</title>
+      <link>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</link>
+      <pubDate>Tue, 18 Sep 2018 13:44:35 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</guid>
+      <description>During a Qt Live Event in Palo Alto, saw an awesome demonstration of Qt&amp;rsquo;s upcoming WebAssembly support.</description>
     </item>
     
     <item>
@@ -102,12 +107,66 @@
     </item>
     
     <item>
+      <title>Pebble Emulator demo for Qemu Advent Calendar</title>
+      <link>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</link>
+      <pubDate>Wed, 24 Dec 2014 13:44:35 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</guid>
+      <description>Pebble was developing a emulator of our smartwatch for the desktop to improve the developer experience, but we were months away from deploying it to our SDK.</description>
+    </item>
+    
+    <item>
+      <title>XKCD Comics Viewer</title>
+      <link>https://mhungerford.github.io/pebble/xkcd_comics/</link>
+      <pubDate>Fri, 07 Feb 2014 00:00:00 -0800</pubDate>
+      
+      <guid>https://mhungerford.github.io/pebble/xkcd_comics/</guid>
+      <description>After porting PNG support to Pebble, found a use for the 10x increase in image storage in the creation of a XKCD Comic viewer.</description>
+    </item>
+    
+    <item>
+      <title>PebbleGL OpenGL Implementation</title>
+      <link>https://mhungerford.github.io/pebble/pebblegl/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://mhungerford.github.io/pebble/pebblegl/</guid>
+      <description>During a Pebble Hackathon at the office, myself and Justin McGirr endeavored to create an OpenGL implementation for the Pebble Smartwatch.</description>
+    </item>
+    
+    <item>
+      <title>Pebble SmartWatch UI Sketchup Tool</title>
+      <link>https://mhungerford.github.io/work/pebble_sketchup/</link>
+      <pubDate>Fri, 22 Feb 2013 13:44:35 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/work/pebble_sketchup/</guid>
+      <description>While I was working at Pebble, I found myself mocking up my applications and partner applications as a series of screenshot and looking at them on the watch.</description>
+    </item>
+    
+    <item>
       <title>Skype for PS Vita</title>
       <link>https://mhungerford.github.io/work/skype_psvita/</link>
       <pubDate>Tue, 24 Apr 2012 13:44:35 -0700</pubDate>
       
       <guid>https://mhungerford.github.io/work/skype_psvita/</guid>
       <description>Had a blast while working at Skype.</description>
+    </item>
+    
+    <item>
+      <title>Nexis/787 UI</title>
+      <link>https://mhungerford.github.io/work/astronautics_nexis_us/</link>
+      <pubDate>Tue, 01 Mar 2011 11:39:44 -0700</pubDate>
+      
+      <guid>https://mhungerford.github.io/work/astronautics_nexis_us/</guid>
+      <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mhungerford.github.io/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhungerford.github.io/home/subheader/</guid>
+      <description>I&amp;rsquo;ve built Linux-based products at companies including Skype, Microsoft and now ChargePoint.</description>
     </item>
     
   </channel>
