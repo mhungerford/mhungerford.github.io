@@ -4,35 +4,30 @@
     <title>Gameparks on NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/gamepark/</link>
     <description>Recent content in Gameparks on NiceTux by Matthew Hungerford</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2019 10:48:59 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/gamepark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Aug 2019 10:48:59 -0700</lastBuildDate>
+    <atom:link href="https://mhungerford.github.io/gamepark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opposite Lock - GP2x Port</title>
       <link>https://mhungerford.github.io/gamepark/oppositelock/</link>
       <pubDate>Thu, 22 Aug 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/oppositelock/</guid>
       <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.</description>
     </item>
-    
     <item>
       <title>King Of Fighters - Pandora Port</title>
       <link>https://mhungerford.github.io/gamepark/kingoffighters/</link>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/kingoffighters/</guid>
       <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
-    
     <item>
       <title>Mister Hachi (SHMUP) - GP2x Port</title>
       <link>https://mhungerford.github.io/gamepark/mrhachi/</link>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/mrhachi/</guid>
       <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
-    
   </channel>
 </rss>

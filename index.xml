@@ -4,170 +4,177 @@
     <title>NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/</link>
     <description>Recent content on NiceTux by Matthew Hungerford</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 10:09:14 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://mhungerford.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oscilloscope Music</title>
+      <link>https://mhungerford.github.io/maker_projects/oscilloscope_music/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/maker_projects/oscilloscope_music/</guid>
+      <description>Last year, a friend brought Oscilloscope Music to Kids-Day at work.</description>
+    </item>
+    <item>
+      <title>Rebble (Pebble) Hackathon Results</title>
+      <link>https://mhungerford.github.io/pebble/rebble_hackathon_results/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/pebble/rebble_hackathon_results/</guid>
+      <description>The completed the results of the judging for Rebble&amp;rsquo;s first hackathon from November 18-20 2022.</description>
+    </item>
+    <item>
+      <title>Rebble (Pebble) Hackathon</title>
+      <link>https://mhungerford.github.io/pebble/rebble_hackathon_contest/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/pebble/rebble_hackathon_contest/</guid>
+      <description>Rebble (the community lead continuation of the Pebble Smartwatch platform) had its first hackathon online November 18-20 2022.</description>
+    </item>
+    <item>
+      <title>EVMazing Maze Game</title>
+      <link>https://mhungerford.github.io/android/evmazing/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/android/evmazing/</guid>
+      <description>For a kids event at my work, we wanted to use some Google Chrome Monitors to have educational games available for the kids to play.</description>
+    </item>
+    <item>
+      <title>Pico-8 RGB Arcade</title>
+      <link>https://mhungerford.github.io/maker_projects/pico8_arcade/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/maker_projects/pico8_arcade/</guid>
+      <description>Built an RGB Panel-based arcade running Pico-8 games on a 128x128 RGB Matrix.</description>
+    </item>
     <item>
       <title>Qtstickercam</title>
       <link>https://mhungerford.github.io/android/qtstickercam/</link>
       <pubDate>Tue, 24 Mar 2020 10:09:14 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/qtstickercam/</guid>
       <description>My son got a webcam for his PC, and wanted to do stickers on pictures, similar to those on Android and IPhone mobile apps.</description>
     </item>
-    
+    <item>
+      <title>Qt World Summit - Tokyo</title>
+      <link>https://mhungerford.github.io/work/qtws_tokyo/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/work/qtws_tokyo/</guid>
+      <description>The opportunity of a lifetime, a chance to travel to Tokyo, came in the form of presenting on behalf on ChargePoint at the 2019 Qt World Summit in Tokyo.</description>
+    </item>
     <item>
       <title>Cosmo&#39;s Star</title>
       <link>https://mhungerford.github.io/android/cosmos_star/</link>
       <pubDate>Fri, 27 Sep 2019 11:04:01 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/cosmos_star/</guid>
       <description>Qt-based game for Android/Web/Linux written as part of the itch.</description>
     </item>
-    
     <item>
       <title>Updating Projects</title>
       <link>https://mhungerford.github.io/posts/updating_projects/</link>
       <pubDate>Thu, 22 Aug 2019 22:27:49 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/posts/updating_projects/</guid>
       <description>Many of the sections in the section header are incomplete, I am still catching up on finding pictures and links to old games and projects.</description>
     </item>
-    
     <item>
       <title>First Post</title>
       <link>https://mhungerford.github.io/posts/firstpost/</link>
       <pubDate>Thu, 22 Aug 2019 16:48:53 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/posts/firstpost/</guid>
       <description>Created this site to archive past games I have written or ported, as well as interesting applications or projects I have worked on.</description>
     </item>
-    
     <item>
       <title>Opposite Lock - GP2x Port</title>
       <link>https://mhungerford.github.io/gamepark/oppositelock/</link>
       <pubDate>Thu, 22 Aug 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/oppositelock/</guid>
       <description>GP2x Port of J2ME Game: Opposite Lock (GPL&amp;rsquo;d 3d racing game originally coded by Carl Woffenden) OpenHandhelds.</description>
     </item>
-    
     <item>
       <title>King Of Fighters - Pandora Port</title>
       <link>https://mhungerford.github.io/gamepark/kingoffighters/</link>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/kingoffighters/</guid>
       <description>Pandora Port of Bennu Engine Game: King of Fighters (Fan remake originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
-    
     <item>
       <title>Mister Hachi (SHMUP) - GP2x Port</title>
       <link>https://mhungerford.github.io/gamepark/mrhachi/</link>
       <pubDate>Sat, 22 Jun 2019 10:48:59 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/gamepark/mrhachi/</guid>
       <description>GP2x Port of J2ME Game: Mister Hachi (SHMUP) (Freeware game originally coded by Carl Francisco Javier del Pino Cuesta)</description>
     </item>
-    
     <item>
       <title>ChargePoint Tensorflow-Powered TouchScreens</title>
       <link>https://mhungerford.github.io/work/chargepoint_rftouch/</link>
       <pubDate>Mon, 10 Jun 2019 12:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/work/chargepoint_rftouch/</guid>
       <description>ChargePoint EV Chargers have to support extreme conditions, from being covered in ice after a winter storm in Finland, to extreme heat and sun in desert like environments like LA.</description>
     </item>
-    
     <item>
       <title>Unicorn Paint</title>
       <link>https://mhungerford.github.io/android/unicorn_paint/</link>
       <pubDate>Sat, 16 Mar 2019 17:34:04 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/unicorn_paint/</guid>
       <description>For my daughters upcoming birthday I wrote a fun little finger-painting game.</description>
     </item>
-    
     <item>
       <title>Qt-WebAssembly ChargePoint EV Charger Simulator</title>
       <link>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</link>
       <pubDate>Tue, 18 Sep 2018 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</guid>
       <description>During a Qt Live Event in Palo Alto, saw an awesome demonstration of Qt&amp;rsquo;s upcoming WebAssembly support.</description>
     </item>
-    
     <item>
       <title>Pandas and bananas</title>
       <link>https://mhungerford.github.io/pebble/pandas_and_bananas/</link>
       <pubDate>Fri, 17 Apr 2015 09:50:16 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/pandas_and_bananas/</guid>
       <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch.</description>
     </item>
-    
     <item>
       <title>Pebble Emulator demo for Qemu Advent Calendar</title>
       <link>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</link>
       <pubDate>Wed, 24 Dec 2014 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</guid>
       <description>Pebble was developing a emulator of our smartwatch for the desktop to improve the developer experience, but we were months away from deploying it to our SDK.</description>
     </item>
-    
     <item>
       <title>XKCD Comics Viewer</title>
       <link>https://mhungerford.github.io/pebble/xkcd_comics/</link>
       <pubDate>Fri, 07 Feb 2014 00:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/xkcd_comics/</guid>
       <description>After porting PNG support to Pebble, found a use for the 10x increase in image storage in the creation of a XKCD Comic viewer.</description>
     </item>
-    
     <item>
       <title>PebbleGL OpenGL Implementation</title>
       <link>https://mhungerford.github.io/pebble/pebblegl/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/pebblegl/</guid>
       <description>During a Pebble Hackathon at the office, myself and Justin McGirr endeavored to create an OpenGL implementation for the Pebble Smartwatch.</description>
     </item>
-    
     <item>
       <title>Pebble SmartWatch UI Sketchup Tool</title>
       <link>https://mhungerford.github.io/work/pebble_sketchup/</link>
       <pubDate>Fri, 22 Feb 2013 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/pebble_sketchup/</guid>
       <description>While I was working at Pebble, I found myself mocking up my applications and partner applications as a series of screenshot and looking at them on the watch.</description>
     </item>
-    
     <item>
       <title>Skype for PS Vita</title>
       <link>https://mhungerford.github.io/work/skype_psvita/</link>
       <pubDate>Tue, 24 Apr 2012 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/skype_psvita/</guid>
       <description>Had a blast while working at Skype.</description>
     </item>
-    
     <item>
       <title>Nexis/787 UI</title>
       <link>https://mhungerford.github.io/work/astronautics_nexis_us/</link>
       <pubDate>Tue, 01 Mar 2011 11:39:44 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/astronautics_nexis_us/</guid>
       <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://mhungerford.github.io/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://mhungerford.github.io/home/subheader/</guid>
       <description>I&amp;rsquo;ve built Linux-based products at companies including Skype, Microsoft and now ChargePoint.</description>
     </item>
-    
   </channel>
 </rss>

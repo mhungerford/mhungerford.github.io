@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardwares on NiceTux by Matthew Hungerford</title>
+    <link>http://192.168.1.124:1313/hardware/</link>
+    <description>Recent content in Hardwares on NiceTux by Matthew Hungerford</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 -0800</lastBuildDate>
+    <atom:link href="http://192.168.1.124:1313/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oscilloscope Music</title>
+      <link>http://192.168.1.124:1313/hardware/oscilloscope_music/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 -0800</pubDate>
+      <guid>http://192.168.1.124:1313/hardware/oscilloscope_music/</guid>
+      <description>Last year, a friend brought Oscilloscope Music to Kids-Day at work.</description>
+    </item>
+    <item>
+      <title>Pico-8 RGB Arcade</title>
+      <link>http://192.168.1.124:1313/hardware/pico8_arcade/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 -0800</pubDate>
+      <guid>http://192.168.1.124:1313/hardware/pico8_arcade/</guid>
+      <description>Built an RGB Panel-based arcade running Pico-8 games on a 128x128 RGB Matrix.</description>
+    </item>
+  </channel>
+</rss>

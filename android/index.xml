@@ -4,35 +4,37 @@
     <title>Androids on NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/android/</link>
     <description>Recent content in Androids on NiceTux by Matthew Hungerford</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 10:09:14 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://mhungerford.github.io/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVMazing Maze Game</title>
+      <link>https://mhungerford.github.io/android/evmazing/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/android/evmazing/</guid>
+      <description>For a kids event at my work, we wanted to use some Google Chrome Monitors to have educational games available for the kids to play.</description>
+    </item>
     <item>
       <title>Qtstickercam</title>
       <link>https://mhungerford.github.io/android/qtstickercam/</link>
       <pubDate>Tue, 24 Mar 2020 10:09:14 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/qtstickercam/</guid>
       <description>My son got a webcam for his PC, and wanted to do stickers on pictures, similar to those on Android and IPhone mobile apps.</description>
     </item>
-    
     <item>
       <title>Cosmo&#39;s Star</title>
       <link>https://mhungerford.github.io/android/cosmos_star/</link>
       <pubDate>Fri, 27 Sep 2019 11:04:01 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/cosmos_star/</guid>
       <description>Qt-based game for Android/Web/Linux written as part of the itch.</description>
     </item>
-    
     <item>
       <title>Unicorn Paint</title>
       <link>https://mhungerford.github.io/android/unicorn_paint/</link>
       <pubDate>Sat, 16 Mar 2019 17:34:04 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/android/unicorn_paint/</guid>
       <description>For my daughters upcoming birthday I wrote a fun little finger-painting game.</description>
     </item>
-    
   </channel>
 </rss>

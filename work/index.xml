@@ -4,62 +4,58 @@
     <title>Works on NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/work/</link>
     <description>Recent content in Works on NiceTux by Matthew Hungerford</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 12:00:00 -0800</lastBuildDate><atom:link href="https://mhungerford.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://mhungerford.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qt World Summit - Tokyo</title>
+      <link>https://mhungerford.github.io/work/qtws_tokyo/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/work/qtws_tokyo/</guid>
+      <description>The opportunity of a lifetime, a chance to travel to Tokyo, came in the form of presenting on behalf on ChargePoint at the 2019 Qt World Summit in Tokyo.</description>
+    </item>
     <item>
       <title>ChargePoint Tensorflow-Powered TouchScreens</title>
       <link>https://mhungerford.github.io/work/chargepoint_rftouch/</link>
       <pubDate>Mon, 10 Jun 2019 12:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/work/chargepoint_rftouch/</guid>
       <description>ChargePoint EV Chargers have to support extreme conditions, from being covered in ice after a winter storm in Finland, to extreme heat and sun in desert like environments like LA.</description>
     </item>
-    
     <item>
       <title>Qt-WebAssembly ChargePoint EV Charger Simulator</title>
       <link>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</link>
       <pubDate>Tue, 18 Sep 2018 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/chargepoint_qtwebassembly/</guid>
       <description>During a Qt Live Event in Palo Alto, saw an awesome demonstration of Qt&amp;rsquo;s upcoming WebAssembly support.</description>
     </item>
-    
     <item>
       <title>Pebble Emulator demo for Qemu Advent Calendar</title>
       <link>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</link>
       <pubDate>Wed, 24 Dec 2014 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/pebble_qemu_advent_calendar/</guid>
       <description>Pebble was developing a emulator of our smartwatch for the desktop to improve the developer experience, but we were months away from deploying it to our SDK.</description>
     </item>
-    
     <item>
       <title>Pebble SmartWatch UI Sketchup Tool</title>
       <link>https://mhungerford.github.io/work/pebble_sketchup/</link>
       <pubDate>Fri, 22 Feb 2013 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/pebble_sketchup/</guid>
       <description>While I was working at Pebble, I found myself mocking up my applications and partner applications as a series of screenshot and looking at them on the watch.</description>
     </item>
-    
     <item>
       <title>Skype for PS Vita</title>
       <link>https://mhungerford.github.io/work/skype_psvita/</link>
       <pubDate>Tue, 24 Apr 2012 13:44:35 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/skype_psvita/</guid>
       <description>Had a blast while working at Skype.</description>
     </item>
-    
     <item>
       <title>Nexis/787 UI</title>
       <link>https://mhungerford.github.io/work/astronautics_nexis_us/</link>
       <pubDate>Tue, 01 Mar 2011 11:39:44 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/work/astronautics_nexis_us/</guid>
       <description>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.</description>
     </item>
-    
   </channel>
 </rss>

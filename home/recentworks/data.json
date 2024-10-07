@@ -1,22 +1,22 @@
 [
     {
         "id": 0,
-        "name": "Cosmo's Star",
-        "image": "images/cosmos_star/cosmos_video.gif",
-        "url": "android/cosmos_star",
+        "name": "Pebble FRIQ Physics Game",
+        "image": "images/recentworks/friq_wide.gif",
+        "url": "pebble/rebble_hackathon_contest",
         "items": []
     },
     {
         "id": 1,
-        "name": "Unicorn Paint",
-        "image": "images/unicorn_paint/unicorn_paint_ingame.png",
-        "url": "android/unicorn_paint",
+        "name": "Cosmo's Star",
+        "image": "images/recentworks/cosmos_video.gif",
+        "url": "android/cosmos_star",
         "items": []
     },
     {
         "id": 2,
         "name": "Qt Sticker Cam",
-        "image": "images/qtstickercam/qtstickercam_ingame.png",
+        "image": "images/recentworks/qtstickercam_ingame.png",
         "url": "android/qtstickercam",
         "items": []
     }

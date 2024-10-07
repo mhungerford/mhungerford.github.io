@@ -13,14 +13,15 @@
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
 	
 	
-	<script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
+	
+        <script type="text/javascript" src="https://mhungerford.github.io/js/fa-custom.min.js"></script>
 	
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	
 	
   
-  <link rel="stylesheet" href="https://mhungerford.github.io/css/styles.min.43386df843db6d9469e55c871df003a1b4692bb41253c4eacb7b62816640edd1dd98d30606f7c7d4735e827702f28608ff31c0f60e7b3c5f1f056c25bcd739e8.css" integrity="sha512-Qzht&#43;EPbbZRp5VyHHfADobRpK7QSU8Tqy3tigWZA7dHdmNMGBvfH1HNegncC8oYI/zHA9g57PF8fBWwlvNc56A==">
+  <link rel="stylesheet" href="https://mhungerford.github.io/css/styles.min.dc20cd846148832f897dfab7ce198a04e402fd73541dea6b2e5fa1f16b31cdb1603424f484a2d1add226325a4a4a2dac92afe2514fedd2911405da7d452682df.css" integrity="sha512-3CDNhGFIgy&#43;Jffq3zhmKBOQC/XNUHeprLl&#43;h8WsxzbFgNCT0hKLRrdImMlpKSi2skq/iUU/t0pEUBdp9RSaC3w==">
 
    
   
@@ -83,6 +84,12 @@
             
                 
                 <li>
+                    <a href="/maker_projects/">Maker_Projects</a>
+                </li>
+                
+            
+                
+                <li>
                     <a href="/work/">Work</a>
                 </li>
                 
@@ -117,11 +124,17 @@
 					</header>
 					<div class="entry-content">
 						<p>While working at Astronautics, I created the widget toolkit and built the UI for the NEXIS flight system, as well as the previous 787 flight system.
-<img src="/images/NEXIS_MENU.jpg#center" alt="NEXIS MENU"></p>
+
+<div style="display: flex; justify-content: center;">
+<img alt="NEXIS MENU" id="h-rh-i-0" src="/images/NEXIS_MENU.jpg#center">
+</div></p>
 <p>For the airport map, which typically had tens of thousands of polygons, in order to get good performance out of the Intel Graphics chip at the time, I created a minimal software renderer that drew on tiles, and uploaded them as textures to be panned.  This allowed for better image quality, as the antialiasing of the Intel Graphics was poor, and since the rendering was cached, it boosted the FPS from ~3FPS (rendering all the polygons every frame) to the 30FPS cap (software pre-rendered tiles).</p>
 <p>I also created a collision and bounding framework that kept relevant or important information on-screen even if it was located off-screen or beneath a UI element.  This covered both cases such as other airplanes that would be off-screen with the current view but required the pilot to be aware of them, as well as other elements such as the runway identifiers such as &ldquo;25R&rdquo; in the picture below sliding with the runway edge to stay on-screen.</p>
-<p><img src="/images/NEXIS_UI.png#center" alt="NEXIS UI">
-<a href="https://www.youtube.com/watch?v=X2ti9P5BFlI">Youtube Video</a></p>
+<p>
+<div style="display: flex; justify-content: center;">
+<img alt="NEXIS UI" id="h-rh-i-1" src="/images/NEXIS_UI.png#center">
+</div>
+<a href="https://www.youtube.com/watch?v=X2ti9P5BFlI" rel="external">Youtube Video</a></p>
 
 					</div>
 				</article>
@@ -187,6 +200,10 @@
             
 							
 								<a href="mailto:mhungerford@gmail.com" target="_blank"><i class="fas fa-envelope fa-1x"></i></a>
+							
+            
+							
+								<a href="https://mhungerford.itch.io" target="_blank"><i class="fab fa-itch-io fa-1x"></i></a>
 							
             
 					</p>

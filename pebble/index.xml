@@ -4,35 +4,44 @@
     <title>Pebbles on NiceTux by Matthew Hungerford</title>
     <link>https://mhungerford.github.io/pebble/</link>
     <description>Recent content in Pebbles on NiceTux by Matthew Hungerford</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2015 09:50:16 -0700</lastBuildDate><atom:link href="https://mhungerford.github.io/pebble/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://mhungerford.github.io/pebble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebble (Pebble) Hackathon Results</title>
+      <link>https://mhungerford.github.io/pebble/rebble_hackathon_results/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/pebble/rebble_hackathon_results/</guid>
+      <description>The completed the results of the judging for Rebble&amp;rsquo;s first hackathon from November 18-20 2022.</description>
+    </item>
+    <item>
+      <title>Rebble (Pebble) Hackathon</title>
+      <link>https://mhungerford.github.io/pebble/rebble_hackathon_contest/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 -0800</pubDate>
+      <guid>https://mhungerford.github.io/pebble/rebble_hackathon_contest/</guid>
+      <description>Rebble (the community lead continuation of the Pebble Smartwatch platform) had its first hackathon online November 18-20 2022.</description>
+    </item>
     <item>
       <title>Pandas and bananas</title>
       <link>https://mhungerford.github.io/pebble/pandas_and_bananas/</link>
       <pubDate>Fri, 17 Apr 2015 09:50:16 -0700</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/pandas_and_bananas/</guid>
       <description>Simple but fun game &amp;ldquo;Pandas and Bananas&amp;rdquo; I created for the Pebble Smartwatch.</description>
     </item>
-    
     <item>
       <title>XKCD Comics Viewer</title>
       <link>https://mhungerford.github.io/pebble/xkcd_comics/</link>
       <pubDate>Fri, 07 Feb 2014 00:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/xkcd_comics/</guid>
       <description>After porting PNG support to Pebble, found a use for the 10x increase in image storage in the creation of a XKCD Comic viewer.</description>
     </item>
-    
     <item>
       <title>PebbleGL OpenGL Implementation</title>
       <link>https://mhungerford.github.io/pebble/pebblegl/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 -0800</pubDate>
-      
       <guid>https://mhungerford.github.io/pebble/pebblegl/</guid>
       <description>During a Pebble Hackathon at the office, myself and Justin McGirr endeavored to create an OpenGL implementation for the Pebble Smartwatch.</description>
     </item>
-    
   </channel>
 </rss>
